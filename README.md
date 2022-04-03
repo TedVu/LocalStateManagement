@@ -1,4 +1,4 @@
-# localstatemanagement
+# LocalStateManagement
 
 A new Flutter project.
 
